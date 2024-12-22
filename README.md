@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: type mismatches due to late binding.  The `bug.vbs` file shows code that causes a runtime error, while `bugSolution.vbs` offers solutions to prevent the error.  Understanding and addressing type mismatches is key to writing robust VBScript applications.
